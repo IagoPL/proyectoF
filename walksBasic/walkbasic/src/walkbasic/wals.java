@@ -8,7 +8,7 @@ public class wals {
 		// TODO Auto-generated method stub
 		int x = 0; // ancho
 		int y = 3;// alto
-		int p = 0;
+		int p = 0;nbvc
 		boolean noSalio = true;
 
 		Random r = new Random();
